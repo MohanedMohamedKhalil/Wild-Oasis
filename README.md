@@ -39,7 +39,7 @@ made by React , NodeJs , Socket.io
 ### Technologies
 
 - [![[NextJs]][Next.js]][Next-url]
-- [![supabase][supabase.com]][supabase-url]
+- [![SUPABASE][supabase.com]][supabase-url]
 - [![NEXTAUTH][NextAuth.js]][NextAuth-url]
 
 <!-- GETTING STARTED -->
