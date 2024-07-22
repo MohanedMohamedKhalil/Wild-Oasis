@@ -93,22 +93,22 @@ tailWindCss
 after all installations app will be run at http://localhost:3000
 
 - Home Page
-  ![](../images/home.png)
+  ![](./images/home.png)
 
 - Cabins Page
-  ![](../images/cabins.png)
+  ![](./images/cabins.png)
 
 - Cabin Page
-  ![](../images/booking.png)
+  ![](./images/booking.png)
 
 - Reservations Page
-  ![](../images/reservations.png)
+  ![](./images/reservations.png)
 
 - Login Page
-  ![](../images/logIn.png)
+  ![](./images/logIn.png)
 
 - Profile Page
-  ![](../images/profile.png)
+  ![](./images/profile.png)
 
 <!-- ROADMAP -->
 
