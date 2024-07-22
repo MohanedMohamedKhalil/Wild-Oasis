@@ -31,10 +31,10 @@
 
 ## About The Project
 
-![](./Chat.png)
+![](./app/icon.png)
 
-Live Chat App where you can send and recieve messages from different users at the same room
-made by React , NodeJs , Socket.io
+The Wild Oasis is a fancy getaway website with high-end cabins in nature where users can select cabins and reserve it 
+made by : nextJs - nextAuth - Supabase
 
 ### Technologies
 
