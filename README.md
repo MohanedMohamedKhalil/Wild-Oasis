@@ -122,7 +122,7 @@ mohanedmohamed41@gmail.com - [LinkendIn](https://www.linkedin.com/in/mohaned-moh
 
 [Next.js]: https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=NextJs&logoColor=61DAFB
 [Next-url]: https://nextjs.org/
-[supabase.com]: https://img.shields.io/badge/supabase?style=for-the-badge&logo=supabase&logoColor=white
+[supabase.com]: https://img.shields.io/badge/supabase-green?style=for-the-badge&logo=supabase&logoColor=61DAFB
 [supabase-url]: https://supabase.com/
 [NextAuth.js]: https://img.shields.io/badge/NextAuth-black?style=for-the-badge&logo=NextAuth&badgeColor=010101
 [NextAuth-url]: https://next-auth.js.org/
