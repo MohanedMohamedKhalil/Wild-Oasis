@@ -1,36 +1,128 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br />
+<div align="center">
+  <h1 align="center">The Wild Oasis</h1>
+  <p align="center">
+  <img src="./app/icon.png" style="width:150px">
+   </p>
+</div>
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#Technologies">Technologies</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#Clint-Side">Usage</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+![](./Chat.png)
+
+Live Chat App where you can send and recieve messages from different users at the same room
+made by React , NodeJs , Socket.io
+
+### Technologies
+
+- [![[NextJs]][Next.js]][Next-url]
+- [![SUBAPASE][supabase.com]][subapase-url]
+- [![NEXTAUTH][NextAuth.js]][NextAuth-url]
+
+<!-- GETTING STARTED -->
 
 ## Getting Started
 
-First, run the development server:
+Follow next steps to know how to run the App ☺.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Prerequisites
+
+- [NodeJS](https://nodejs.org/en)
+
+### Installation
+
+1. Clone the repo or you can download it
+
+   ```sh
+   git clone https://github.com/MohanedMohamedKhalil/Wild-Oasis.git
+   ```
+
+2. move to client-side folder and open cmd or visual-studio terminal .
+
+   ```js
+    npm install
+   npm run dev ;
+   ```
+
+List of Packages for development .
+
+```sh
+// Backend
+
+supabase
+
+
+
+// Frontend
+
+NextJs
+NextAuth
+react-day-picker
+date-fns
+heroIcons
+tailWindCss
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- USAGE EXAMPLES -->
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Clint-Side
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+after all installations app will be run at http://localhost:3000
 
-## Learn More
+- Home Page
+  ![](../images/home.png)
 
-To learn more about Next.js, take a look at the following resources:
+- Cabins Page
+  ![](../images/cabins.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Cabin Page
+  ![](../images/booking.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Reservations Page
+  ![](../images/reservations.png)
 
-## Deploy on Vercel
+- Login Page
+  ![](../images/logIn.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Profile Page
+  ![](../images/profile.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!-- ROADMAP -->
+
+<!-- CONTACT -->
+
+## Contact
+
+mohanedmohamed41@gmail.com - [LinkendIn](https://www.linkedin.com/in/mohaned-mohamed-khalil/)
+
+<!-- Icons -->
+
+[Next.js]: https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=NextJs&logoColor=61DAFB
+[Next-url]: https://nextjs.org/
+[supabase.com]: https://img.shields.io/badge/supabase?style=for-the-badge&logo=supabase&logoColor=white
+[supabase-url]: https://supabase.com/
+[NextAuth.js]: https://img.shields.io/badge/NextAuth-black?style=for-the-badge&logo=NextAuth&badgeColor=010101
+[NextAuth-url]: https://next-auth.js.org/
