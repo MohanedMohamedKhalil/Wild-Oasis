@@ -33,8 +33,7 @@
 
 ![](./app/icon.png)
 
-The Wild Oasis is a fancy getaway website with high-end cabins in nature where users can select cabins and reserve it 
-made by : nextJs - nextAuth - Supabase
+The Wild Oasis is a fancy getaway website with high-end cabins in nature where users can select cabins and reserve it.
 
 ### Technologies
 
